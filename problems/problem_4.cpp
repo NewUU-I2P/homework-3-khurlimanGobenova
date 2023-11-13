@@ -1,12 +1,19 @@
 #include <string>
 #include <sstream>
+#include <iomanip>
 using namespace std;
 
 string problemSolution4(const string &macAddress) {
     string result;
-
-
-    // write your code here
-
+    int firstOct;
+    stringstream sso(macAddress);
+    sso >> hex >> firstOct;
+    if (macAddress=="FF:FF:FF:FF:FF:FF"){
+        result = "Broadcast";
+    }
+    if (firstOct%2==0){
+        result = "Unicast";
+    }else
+        result = "Multicast";
     return result;
 }
