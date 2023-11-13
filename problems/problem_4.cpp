@@ -1,6 +1,5 @@
 #include <string>
 #include <sstream>
-#include <iomanip>
 using namespace std;
 
 string problemSolution4(const string &macAddress) {

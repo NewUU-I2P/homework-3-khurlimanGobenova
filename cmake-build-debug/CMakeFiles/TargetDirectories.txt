@@ -1,0 +1,3 @@
+C:/Users/ASUS X515/Desktop/IntroToProg/homework-3-khurlimanGobenova/cmake-build-debug/CMakeFiles/homework_3_khurlimanGobenova.dir
+C:/Users/ASUS X515/Desktop/IntroToProg/homework-3-khurlimanGobenova/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS X515/Desktop/IntroToProg/homework-3-khurlimanGobenova/cmake-build-debug/CMakeFiles/rebuild_cache.dir
